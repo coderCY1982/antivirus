@@ -1,0 +1,728 @@
+@media screen and (max-width: 786px){
+    .forpc{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 787px){
+    body{
+        margin: 0;
+        padding: 0; 
+        min-width: 1024px;
+    }
+
+    .forsp{
+        display: none;
+    }
+
+    .howto ul{
+        display: flex;
+        justify-content: center;
+    }
+
+    .howto li:nth-child(2){
+        margin-left: 50px;
+    }
+
+    .howto-eng{
+        color: #999999;
+        font-size: 30px;
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+
+    .section2 .howto-txt {
+        color: #666666;
+        font-size: 21px;
+        line-height: 35px;
+        font-weight: bold;
+        padding: 35px 0;
+    }
+
+    .arrow{
+        color: #428BBF;
+        text-align: center;
+        font-size: 40px;
+    }
+
+    .arrow-ttl{
+        color: #428BBF;
+        text-align: center;
+        font-size: 30px;
+        padding-bottom: 30px;
+    }
+
+    .section3-top h3{
+        margin-top: 40px;
+        font-size: 24px;
+        font-weight: bold;
+        background-color: #ffffff;
+        border: solid 2px #428BBF;
+        padding: 12px 30px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+        margin-bottom: 45px;
+    }
+    
+    .sec3-img{
+        width: 80%;
+        height: auto;
+    }
+
+    .sec3-sub{
+        font-size: 24px;
+        font-weight: bold;
+        margin-top: 25px;
+    }
+
+    .koukin-img{
+        margin-top: 40px;
+        width: 80%;
+        height: auto;
+    }
+
+    .virus-img{
+        margin-top: 40px;
+        width: 90%;
+        height: auto;
+    }
+
+    .sec4-contents h2 {
+        margin: 0 auto;
+        font-size: 35px;
+        padding: 10px 30px;
+        width: 80%;
+        max-width: 570px;
+    }
+
+    .sec4-contents h3 {
+        font-size: 40px;
+        font-weight: bold;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        letter-spacing: 0.1em;
+    }
+
+    .sec4-txt {
+        margin: 0 auto;
+        max-width: 1100px;
+        text-align: left;
+        font-size: 25px;
+        line-height: 40px;
+        font-weight: bold;
+    }
+
+    .kouka1 ul, 
+    .kouka2 ul {
+        border-radius: 10px;
+        width: 80%;
+        margin: 0 auto;
+        border: #428BBF solid 2px;
+    }
+
+    .kouka-txt {
+        font-size: 22px;
+        margin: 50px auto 0;
+        line-height: 35px;
+        width: 70%;
+        letter-spacing: 1px;
+    }
+
+    .kouka-img{
+        width: 70%;
+        height: auto;
+        padding: 60px 0 120px;
+    }
+
+    .sec6-waku{
+        text-align: center;
+        margin: 0 auto;
+        max-width: 620px;
+    }
+
+    .sec7-1-sp,
+    .sec7-2-sp{
+        margin-top: 30px;
+        width: 80%;
+        height: auto;
+    }
+
+    .section7 h2 {
+        font-size: 25px;
+        border: solid 1px #010101;
+        padding: 20px 20px;
+        margin: 60px auto 30px;
+        width: 65%;
+        font-weight: bold;
+        border-radius: 40px;
+    }
+
+    .section7 .sec7-below h2{
+        border: solid 1px #428BBF;
+        margin: 30px auto 30px;
+        font-size: 21px;
+    }
+
+    .sec7-below h2 span{
+        font-size: 30px;
+    }
+
+
+    .section8 img {
+        width: 55%;
+        height: auto;
+    }
+
+    .section6 ul {
+        margin-top: 50px;
+    }
+
+    .section9-pc ul{
+        display: flex;
+    }
+
+    .section9-pc{
+        padding-bottom: 170px;
+    }
+
+    .section9-pc img{
+        width: 100%;
+        height: 300px;
+    }
+
+    .section10 h2{
+        margin: -100px auto 30px;
+        width: 65%;
+    }
+
+    .sec10-txt {
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 30px;
+    }
+
+    .section10 li {
+        width: 33.33%;
+        position: relative;
+    }
+
+    .merit1,
+    .merit23{
+        width: 85%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .merit-ttl {
+        font-size: 20px;
+        font-weight: bold;
+        padding: 8px 20px;
+        width: 200px;
+        border-radius: 40px;
+        margin: 0 0px 30px 0px;
+    }
+
+    .merit-txt {
+        font-size: 21px;
+        font-weight: bold;
+        color: #000000;
+        text-align: left;
+    }
+
+    .merit-txt-blue {
+        padding-top: 5px;
+        font-size: 30px;
+        color: #428BBF;
+        font-weight: 500;
+        text-align: left;
+    }
+
+    .merit-sub {
+        margin-top: 40px;
+        margin-bottom: 20px;
+        font-size: 17px;
+        font-weight: bold;
+        text-align: right;
+        color: #000000;
+    }
+
+    .merit23{
+        display: flex;
+        justify-content: center;
+    }
+
+    .merit3{
+        margin-left: 100px;
+    }
+
+    .section11 .merit-sub {
+        width: 70%;
+        margin: 10px auto 20px;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: left;
+        color: #000000;
+    }
+
+    .section11 img {
+        margin-top: 50px;
+        width: 85%;
+        height: auto;
+    }
+
+    .section13 {
+        padding: 140px 0 70px;
+        margin: 0 auto;
+    }
+
+    .jisseki h2 {
+        text-align: center;
+        color: #428BBF;
+        border: #428BBF solid 2px;
+        background-color: #F2F2F2;
+        padding: 20px;
+        font-size: 35px;
+        letter-spacing: 4px;
+        max-width: 750px;
+        margin: 0 auto 80px;
+    }
+
+    .works ul {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .works li {
+        margin-left: 10px;
+        width: 23%;
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+    .works li img{
+        width: 100%;
+        height: auto;
+    }
+
+    .works p {
+        font-size: 13px;
+        font-weight: bold;
+        margin-top: 10px;
+        margin-left: 0px;
+        width: 90%;
+        text-align: left;
+    }
+
+    .section14 h2 {
+        text-align: center;
+        color: #428BBF;
+        border: #428BBF solid 2px;
+        background-color: #F2F2F2;
+        padding: 20px;
+        font-size: 35px;
+        letter-spacing: 4px;
+        margin: 0 auto 50px;
+        max-width: 750px;
+    }
+
+    .sekou ul {
+        margin: 0 30px;
+        display: flex;
+        list-style: none;
+        padding-left: 0;
+        justify-content: center;
+    }
+
+    .sekou li {
+        text-align: center;
+        width: 22%;
+        margin: 30px 0;
+        margin-left: 10px;
+    }
+
+    .sekou p {
+        font-size: 20px;
+        text-align: left;
+        font-weight: bold;
+        margin-left: 0px;
+        margin-top: 10px;
+        width: 80%;
+    }
+
+    .sekou li img{
+        width: 100%;
+        height: auto;
+    }
+
+    .section15 img{
+        width: 75%;
+        height: auto;
+    }
+
+    footer{
+        background-color: #666666;
+        text-align: center;
+        color: #ffffff;
+        font-size:18px;
+        font-weight: bold;
+    }
+    
+    .footer1{
+        padding-top: 60px;
+    }
+    
+    .footer2{
+        padding-top: 30px;
+    }
+    
+    .footer3{
+        padding-top: 30px;
+        padding-bottom: 60px;
+    }
+}
+
+@media screen and (min-width: 1200px){
+
+    .section2-top h2{
+        font-size: 30px;
+    }
+
+    .section2-top h3 {
+        max-width: 65%;
+        margin-bottom: 45px;
+    }
+
+    .section2 img {
+        width: 65%;
+        height: auto;
+    }
+
+    .howto ul {
+        margin: 40px auto 0;
+        width: 65%;
+    }
+
+    .section3-top h2{
+        font-size: 30px;
+    }
+
+    .section3-top h3 {
+        max-width: 65%;
+        margin-bottom: 45px;
+    }
+
+    .sec3-img {
+        width: 65%;
+        height: auto;
+    }
+
+    .sec3-txt {
+        width: 65%;
+        margin: 40px auto 0;
+        font-size: 18px;
+        line-height: 30px;
+        letter-spacing: 0.1em;
+        font-weight: bold;
+        text-align: left;
+    }
+
+    .koukin-img {
+        margin-top: 40px;
+        width: 65%;
+        height: auto;
+    }
+
+    .virus-img {
+        margin-top: 40px;
+        width: 75%;
+        height: auto;
+    }
+
+    .sec4-waku {
+        margin: 0px 170px;
+        background-color: #ffffff;
+        text-align: center;
+        padding-top: 60px;
+    }
+
+    .sec4-txt {
+        margin: 0 auto;
+        max-width: 1100px;
+        text-align: left;
+        font-size: 18px;
+        line-height: 40px;
+        font-weight: bold;
+    }
+
+    .kouka1,
+    .kouka2{
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    .section7 h2 {
+        padding: 20px 20px;
+        margin: 120px auto 30px;
+        width: 65%;
+    }
+
+    .sec7-1-sp{
+        margin-top: 30px;
+        width: 80%;
+        height: auto;
+    }
+
+    .sec7-2-sp{
+        margin-top: 30px;
+        width: 90%;
+        height: auto;
+    }
+
+    .section9 {
+        padding-bottom: 210px;
+    }
+
+    .section9-pc{
+        padding-bottom: 170px;
+    }
+
+    .section9-pc img{
+        width: 100%;
+        height: 340px;
+    }
+
+    .merit1, .merit23 {
+        width: 70%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .merit-txt {
+        font-size: 19px;
+        font-weight: bold;
+        color: #000000;
+        text-align: left;
+    }
+
+    .merit-txt-blue {
+        padding-top: 5px;
+        font-size: 28px;
+    }
+
+    .section11 .merit-sub {
+        width: 80%;
+        margin: 30px auto 20px;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: left;
+        color: #000000;
+    }
+
+    .jisseki h2 {
+        padding: 20px;
+        font-size: 30px;
+        letter-spacing: 4px;
+        max-width: 650px;
+        margin: 0 auto 80px;
+    }
+
+    .section14 h2 {
+        padding: 20px;
+        font-size: 30px;
+        letter-spacing: 4px;
+        max-width: 650px;
+        margin: 0 auto 80px;
+    }
+
+    .sekou ul {
+        margin: 0 auto;
+        width: 85%;
+    }
+
+    footer{
+        margin-top: 300px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 1400px){
+    .section2-top h2{
+        font-size: 30px;
+    }
+
+    .section2-top h3 {
+        max-width: 55%;
+        margin-bottom: 45px;
+    }
+
+    .section2 img {
+        width: 55%;
+        height: auto;
+    }
+
+    .howto ul {
+        margin: 40px auto 0;
+        width: 55%;
+    }
+
+    .section3-top h2{
+        font-size: 30px;
+    }
+
+    .section3-top h3 {
+        max-width: 55%;
+        margin-bottom: 45px;
+    }
+
+    .sec3-img {
+        width: 55%;
+        height: auto;
+    }
+
+    .sec3-txt {
+        width: 55%;
+        margin: 40px auto 0;
+        font-size: 18px;
+        line-height: 30px;
+        letter-spacing: 0.1em;
+        font-weight: bold;
+        text-align: left;
+    }
+
+    .koukin-img {
+        margin-top: 40px;
+        width: 55%;
+        height: auto;
+    }
+
+    .virus-img {
+        margin-top: 40px;
+        width: 65%;
+        height: auto;
+    }
+
+    .sec4-waku {
+        margin: 0px 300px;
+        background-color: #ffffff;
+        text-align: center;
+        padding-top: 60px;
+    }
+
+    .sec4-txt {
+        margin: 0 auto;
+        max-width: 1100px;
+        text-align: left;
+        font-size: 18px;
+        line-height: 40px;
+        font-weight: bold;
+    }
+
+    .kouka1,
+    .kouka2{
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .section7 h2 {
+        padding: 20px 20px;
+        margin: 120px auto 30px;
+        width: 50%;
+    }
+
+    .sec7-1-sp{
+        margin-top: 30px;
+        width: 75%;
+        height: auto;
+    }
+
+    .sec7-2-sp{
+        margin-top: 30px;
+        width: 80%;
+        height: auto;
+    }
+
+    .section9 {
+        padding-bottom: 210px;
+    }
+
+    .section9-pc{
+        padding-bottom: 170px;
+    }
+
+    .section9-pc img{
+        width: 100%;
+        height: 340px;
+    }
+
+    .section10 h2 {
+        margin: -100px auto 30px;
+        width: 55%;
+    }
+
+    .merit1, .merit23 {
+        width: 60%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .merit-txt {
+        font-size: 19px;
+        font-weight: bold;
+        color: #000000;
+        text-align: left;
+    }
+
+    .merit-txt-blue {
+        padding-top: 5px;
+        font-size: 28px;
+    }
+
+    .section11 img {
+        margin-top: 50px;
+        width: 75%;
+        height: auto;
+    }
+
+    .section11 .merit-sub {
+        width: 73%;
+        margin: 30px auto 20px;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: left;
+        color: #000000;
+    }
+
+    .jisseki h2 {
+        padding: 20px;
+        font-size: 30px;
+        letter-spacing: 4px;
+        max-width: 650px;
+        margin: 0 auto 80px;
+    }
+
+    .section14 h2 {
+        padding: 20px;
+        font-size: 30px;
+        letter-spacing: 4px;
+        max-width: 650px;
+        margin: 0 auto 80px;
+    }
+
+    .sekou ul {
+        margin: 0 auto;
+        width: 85%;
+    }
+
+    footer{
+        margin-top: 300px;
+    }
+}
